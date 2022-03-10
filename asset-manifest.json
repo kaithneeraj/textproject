@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/textproject/static/css/main.d7705bcd.css",
+    "main.js": "/textproject/static/js/main.cc46dd16.js",
+    "index.html": "/textproject/index.html",
+    "main.d7705bcd.css.map": "/textproject/static/css/main.d7705bcd.css.map",
+    "main.cc46dd16.js.map": "/textproject/static/js/main.cc46dd16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7705bcd.css",
+    "static/js/main.cc46dd16.js"
+  ]
+}
